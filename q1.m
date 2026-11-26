@@ -1,4 +1,4 @@
-%% Metropolis-Hastings Sampling on [0, 1]
+00000000000%% Metropolis-Hastings Sampling on [0, 1]
 % Target: p(x) proportional to exp(-5*(x - 0.5)^2) * cos(3*pi*x) + 1 on [0, 1]
 
 clear; clc; close all;
